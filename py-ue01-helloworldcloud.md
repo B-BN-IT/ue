@@ -3,9 +3,11 @@
     schreibe eim sog. "Hello World" Programm, das seine Ausgabe in der Cloud hat 
     (und bitte schick mir den link)
 
+  b) auch hier einchecken, pw per Zetten oder TElefon oder encr. mail
+  
 Auch geil und nützlich (Drohnensoftware):
 
-  b) "Hello World" in Processing
+  c) "Hello World" in Processing
   Wenn Du noch was anderes kennelernen willst, schreib auch in "Hello World" Programm in "Processing" mit processing2   (siehe link). Das Ergebnis ist ein Applet.
 
 (Processsing.org - geile Seite (siehe Diplo, letztes Drittel)[http://processing.org/]
