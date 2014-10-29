@@ -5,7 +5,7 @@
 * .. __alles__
 * Zitat Dr. Hagemann, Carolinenstrasse 1a, Eimsbüttel:
   * "Herr xyz, .. , *glotz* *pause*, das wird ein **langer**, .. *pause* **steiniger Weg**. <punk>" ;)
-  * 
+  
   
 ##### UX
 * Bash (Terminal,Shell, Konsole, Matrix, ..)
