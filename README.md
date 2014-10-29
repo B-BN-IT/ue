@@ -14,7 +14,7 @@
     * Skripten
     * Linux Server + Anwendungen klarmachen
     * 3.324.234 andere Dinge (TBA)zdf
-    * 
+
 ##### HTML5/CSS
 
 ##### NET ("CLOUD")
